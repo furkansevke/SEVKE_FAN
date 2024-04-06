@@ -1,7 +1,7 @@
 # SEVKE_FAN
 This is exhaust fan with some fun futures for gaming room.
 
-CODE: https://github.com/furkansevke/SEVKE_FAN
+CAD: https://www.thingiverse.com/thing:6567706
 
 Hello,
 This project is made to send the bad odors in the room to the outside and is equipped with rgb led and game details because it will be used in the game room.
