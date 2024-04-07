@@ -3,6 +3,12 @@ This is exhaust fan with some fun futures for gaming room.
 
 CAD: https://www.thingiverse.com/thing:6567706
 
+PINOUT:
+MQ2 --> A0
+BMP180 --> I2C
+FAN PWM (in parallel) --> D5
+WS2812B Data --> D4
+
 Hello,
 This project is made to send the bad odors in the room to the outside and is equipped with rgb led and game details because it will be used in the game room.
 
